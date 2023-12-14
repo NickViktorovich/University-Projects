@@ -1,2 +1,3 @@
 # University-Projects
-Projects in Samara University in Data Analysis
+Привет!
+Здесь будут лабараторные работы в Самарском Университете которые я выполнял по Анализу Данных
